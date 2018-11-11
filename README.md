@@ -26,7 +26,7 @@ In this folder, start up a simple HTTP server to serve up the site files on your
 
 ###Mobile view Screenshot
 
-<img src="img/mobile_view1.png" width="200px" /><span>               </span><img src="img/mobile_view3.png" width="200px" />
+<img src="img/mobile_view1.png" width="200px" hspace="20" /></tb><img src="img/mobile_view3.png" width="200px" hspace="20" />
 
 ## Leaflet.js and Mapbox:
 
