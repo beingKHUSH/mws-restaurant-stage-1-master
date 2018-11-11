@@ -20,11 +20,11 @@ In this folder, start up a simple HTTP server to serve up the site files on your
 
 4.With your server running, visit the site: http://localhost:8000.
 
-###Desktop view Screenshot
+### Desktop view Screenshot
 
 <img src="img/desktop_view.png" />
 
-###Mobile view Screenshot
+### Mobile view Screenshot
 
 <img src="img/mobile_view1.png" width="200px" hspace="20" /></tb><img src="img/mobile_view3.png" width="200px" hspace="20" />
 
