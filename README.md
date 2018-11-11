@@ -24,9 +24,8 @@ In this folder, start up a simple HTTP server to serve up the site files on your
 
 <img src="img/desktop_view.png" />
 <ul>
-	<li><img src="img/mobile_view1.png" width="200px" style="display:inline" /></li>
-	<li><img src="img/mobile_view2.png" width="200px" style="display:inline"/></li>
-	<li><img src="img/mobile_view3.png" width="200px" style="display:inline"/></li>
+	<li><img src="img/mobile_view1.png" width="200px" style="float:left" /></li>
+	<li><img src="img/mobile_view3.png" width="200px" style="float:right"/></li>
 </ul>
 
 ## Leaflet.js and Mapbox:
