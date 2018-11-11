@@ -8,7 +8,6 @@ The goal of the project was to convert a static webpage to a mobile-ready web ap
 I was provided with the code for a restaurant reviews website. This code had a lot of issues. It was barely usable on a desktop browser, much less a mobile device. It also didn’t include any standard accessibility features, and it didn't work offline at all. My job was to update the code to resolve these issues while still maintaining the included functionality. 
 
 ### How to run the application
->>>>>>> 6293d68bb77fb4cb97f885c716bc1e5bdc7a44fa
 
 In order to run the application you have some options:
 
