@@ -20,15 +20,13 @@ In this folder, start up a simple HTTP server to serve up the site files on your
 
 4.With your server running, visit the site: http://localhost:8000.
 
-## Screenshot
-
-#Desktop view
+###Desktop view Screenshot
 
 <img src="img/desktop_view.png" />
 
-#Mobile view
+###Mobile view Screenshot
 
-<img src="img/mobile_view1.png" width="200px" /><img src="img/mobile_view3.png" width="200px" />
+<img src="img/mobile_view1.png" width="200px" /><span>               </span><img src="img/mobile_view3.png" width="200px" />
 
 ## Leaflet.js and Mapbox:
 
