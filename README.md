@@ -1,4 +1,4 @@
-# Restaurant Reviews App 
+# Restaurant Reviews App - Udacity Front-End Developer Nanodegree Project.
 
 ## Project Overview
 
@@ -7,9 +7,6 @@ The goal of the project was to convert a static webpage to a mobile-ready web ap
 ### Specification
 I was provided with the code for a restaurant reviews website. This code had a lot of issues. It was barely usable on a desktop browser, much less a mobile device. It also didn’t include any standard accessibility features, and it didn't work offline at all. My job was to update the code to resolve these issues while still maintaining the included functionality. 
 
-<<<<<<< HEAD
-#You have been provided the code for a restaurant reviews website. The code has a lot of issues. It’s barely usable on a desktop browser, much less a mobile device. It also doesn’t include any standard accessibility features, and it doesn’t work offline at all. Your job is to update the code to resolve these issues while still maintaining the included functionality. 
-=======
 ### How to run the application
 >>>>>>> 6293d68bb77fb4cb97f885c716bc1e5bdc7a44fa
 
@@ -26,7 +23,12 @@ In this folder, start up a simple HTTP server to serve up the site files on your
 
 ## Screenshot
 
-<img src="file:///C:/Users/Khushboo.Jain/Pictures/Screenshots/Screenshot%20(178).png" />
+<img src="img/desktop_view.png" />
+<ul>
+	<li><img src="img/mobile_view1.png" /></li>
+	<li><img src="img/mobile_view2.png" /></li>
+	<li><img src="img/mobile_view3.png" /></li>
+</ul>
 
 ## Leaflet.js and Mapbox:
 
