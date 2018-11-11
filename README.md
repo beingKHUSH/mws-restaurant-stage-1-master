@@ -1,6 +1,5 @@
-# Mobile Web Specialist Certification Course
+# Restaurant Reviews App 
 ---
-#### _Restaurant Reviews App 
 
 ## Project Overview: Stage 1
 
