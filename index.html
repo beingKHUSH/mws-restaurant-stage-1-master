@@ -22,16 +22,16 @@
       <div id="map" aria-label="Map of restaurants" role="application"></div>
     </section>
     <section>
-      <div class="filter-options" aria-expanded="true" tabindex="-1">
+      <div class="filter-options" tabindex="0" aria-label="Filter results">
         <h2>Filter Results</h2>
-        <select role="tablist" tabindex="2" id="neighborhoods-select" name="neighborhoods" onchange="updateRestaurants()">
+        <select aria-label="Select Neighborhood" id="neighborhoods-select" name="neighborhoods" onchange="updateRestaurants()">
           <option value="all">All Neighborhoods</option>
         </select>
-        <select role="tablist" tabindex="2" id="cuisines-select" name="cuisines" onchange="updateRestaurants()">
+        <select aria-label="Select Cuisine" id="cuisines-select" name="cuisines" onchange="updateRestaurants()">
           <option value="all">All Cuisines</option>
         </select>
       </div>
-      <ul id="restaurants-list"></ul>
+      <ul id="restaurants-list" tabindex="0" aria-label="List of restaurants"></ul>
     </section>
   </main> 
   
